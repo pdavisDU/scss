@@ -3,6 +3,11 @@ h1, h2, p {
 
 }
 
+p {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
 table, th, td {
     border: 1px solid black;
 }
